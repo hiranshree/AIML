@@ -1,3 +1,4 @@
-These are few Python codes.
+***
+* These are few Python codes.
 
-Which include datasets, Machine Learning Models and basic Python codes.
+* Which includes datasets, Machine Learning Models and basic Python codes.
